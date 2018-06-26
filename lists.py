@@ -1,3 +1,4 @@
-myinfo = ["God of war","OverCooked","BrawlHalla","Injustice", 3, 4, 5]
+myinfo = ["God of war","OverCooked","BrawlHalla","Injustice","Last Man Standing","Fortnite","GTA"]
 for name in myinfo:
     print(name)
+    
